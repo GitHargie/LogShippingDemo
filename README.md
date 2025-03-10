@@ -1,2 +1,2 @@
 # LogShippingDemo
-Knowledgebase for demonstration of SQL Server LogShipping
+Knowledgebase for demonstration of SQL Server Log Shipping
